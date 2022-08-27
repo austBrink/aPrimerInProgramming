@@ -2,7 +2,9 @@
 
 # A Word of Welcome! 👋
 ### A primer (What is javascript?) 🕹️ 
-Javascript is a programming language that runs in a web browser (or in an engine like Nodejs on a server) used as a programming language to make applications. 
+Javascript is a computer language that allows developers to write scripts that can be executed in your web browser, or programs ran on a computer / server.  
+
+that runs in a web browser (or in an engine like Nodejs on a server) 
 
 # 🤓 Who's the teacher? 
 - 🧔 <- dis guy
