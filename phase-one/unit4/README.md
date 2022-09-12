@@ -1,11 +1,11 @@
-### UNIT FOUR (Loops and Functions: I want the computer to do things...)
-#### ♻️ Loops 
+# UNIT FOUR (Loops and Functions: I want the computer to do things...)
+## ♻️ Loops 
 - for loop
-- while loop
+- while loop (Write a number guessing game as the class example...)
 - do while loop
 - continue keyword 
 - break keyword
-- 🚗 mini assignments TBA 
+- 🚗 mini assignments TBA
     - write a loop that prints to the console the numbers 0-9 
     - write a loop that prints to the console the numbers 1-10 
     - write a loop that prints the numbers 10-1 
@@ -19,7 +19,7 @@
     - *write a loop to find the maximum of an array....*  
     - *write a loop to find the minimum...*  
     
-#### 🛠️ Functions
+## 🛠️ Functions
 - use and practice 
 - syntax 
 - returns
@@ -29,7 +29,7 @@
 - recursion! (another way to loop!)
 - 🚗 mini assignment TBA 
 
-#### 🗳️ Structures / Containers ADVANCED
+## 🗳️ Structures / Containers ADVANCED
 - arrays and their methods part 2 
     - A review of what we looked at last time... In case we forgot.
     - `.splice()` 
@@ -42,3 +42,4 @@
 - objects and their methods part 2 
 - 🚗 mini assignment 
     - Write a function to remove an item from an array. It will need to take an argument as to what we want to remove. It will then make sure that arg is actually in the array. It will then call .splice() to remove the item `.splice(array.indexOf(),1)` and return the new spliced array to the caller. O.o  
+    - choose one of the new methods we learned about to replace one of the loops we made in the first array lesson. 
