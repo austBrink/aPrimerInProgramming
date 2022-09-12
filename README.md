@@ -3,7 +3,7 @@
 Javascript is a computer language that allows developers to write scripts that can be executed in your web browser (That's called front end), or programs ran on a computer / server (that's called backend). 
 
 # 🤓 Who's the teacher? 
-- Hi! I'm Austin. I am a fullstack web developer and part time math and computer science tutor. In my down time I love hanging out with my wife Hannah, journaling, petting our little cat Lu, and playing accustic guitar. 
+- Hi! I'm Austin. I am a fullstack web developer and part time math and computer science tutor. In my down time I love hanging out with my wife Hannah, journaling, petting our little cat Lu, and playing acoustic guitar. 
 
 # 👀 What We'll Cover 
 For this course I want to make sure that you have a solid introduction to core concepts of computer programming. We'll talk about problem solving and creating good user / developer experiences both in terms of thinking programmatically and writing clean code to solve problems. 
@@ -11,13 +11,13 @@ First, we'll need a solid understanding of computer programmer toolbox. We'll ex
 
 ##  🧰 PHASE ONE (The Toolbox) 
 
-### 👋 LESSON ONE "Hello, World!":  
+### 👋 UNIT ONE "Hello, World!":  
 - Talk basics of programming, the web, and what we'll be doing in the course. 
 - We'll get our feet wet with two very basic tools we'll see a whole lot of - console.log() and alert(). 
 - We'll also look at "_where_" we'll do our coding in the computer with _just enough_ html to get us moving with js. 
 - 🚗 mini assignment TBA
 
-### 👨‍💻 LESSON TWO Variables
+### 👨‍💻 UNIT TWO (Variables: I want the computer to keep information for me) 
 - We'll talk about what a variable is (and what it means), the different types and declarations, and how to use them in programming.
 - Additionally, we'll talk about putting things together with operators (including ternary), assignments, equalities, and inequalities
 
@@ -40,7 +40,7 @@ First, we'll need a solid understanding of computer programmer toolbox. We'll ex
 - ternary 
 - 🚗 mini assignment TBA
 
-### LESSON THREE 
+### UNIT THREE (I/O and conditionals: I want the computer to hear me, I want it to make decisions for me)
 #### 🖱️ Input / Output 
 - discussion of I/O
 - keyboard input (using prompt)
@@ -57,7 +57,7 @@ First, we'll need a solid understanding of computer programmer toolbox. We'll ex
 - Being polite to developers and the user 
 - Try, Catch, console.error()
 
-### LESSON FOUR 
+### UNIT FOUR (Loops and Functions: I want the computer to do things...)
 #### ♻️ Loops 
 - for loop
 - while loop
@@ -79,11 +79,11 @@ First, we'll need a solid understanding of computer programmer toolbox. We'll ex
 ### 🚚 BIG ASSIGNMENT (Putting it all together)
 - comprehensive assignment TBA
 ## 🏗️ PHASE TWO (Building / Applications!) 
-### 🔨 LESSON SIX (New Tools)
+### 🔨 UNIT SIX (New Tools)
 #### 🥡 HTML
 #### 😎 CSS 
 #### 🎸 DOM manipulation! 
-### 🉐❗ LESSON FIVE (ADVANCED OPTIONAL AREA) 
+### 🉐❗ UNIT FIVE (ADVANCED OPTIONAL AREA) 
 #### ⤵️ asynchronous code 
 #### 💸 promises 
 #### ⏱️ async await
