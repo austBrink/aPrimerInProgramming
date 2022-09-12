@@ -3,6 +3,11 @@
 ### A primer (What is javascript?) 🕹️ 
 Javascript is a computer language that allows developers to write scripts that can be executed in your web browser (That's called front end), or programs ran on a computer / server (that's called backend). 
 
+<!-- <p align="center">
+  <img src="giphy.gif" alt="animated" width="175px"/>
+</p> -->
+
+
 # 👨‍🎓 👩‍🎓 Who is this class for? 
 I'm gearing this class for high-schoolers (and advanced 7th-8th graders) that need / desire a technical elective. I'm assuming my students are yet unfamiliar with computer programming and computer programming languages. While assignments will only have a loose grading system completing assignments will be in the students best interest for comprehension! Coding is not a spectator sport! The more you do the more you'll know! 
 This Class will make a great highschool level Computer Science (and prep for college computer science courses). This class could also function as a technical elective to help students decide if further education and a career in computer science is right for them. 
