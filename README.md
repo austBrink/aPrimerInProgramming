@@ -37,8 +37,8 @@ First, we'll need a solid understanding of computer programmer toolbox. We'll ex
 - 🚗 mini assignment TBA
 
 #### 🗳️ Structures / Containers 
-- arrays and their methods 
-- objects and their methods 
+- arrays and their methods part 1 
+- objects and their methods part 1 
 - 🚗 mini assignment TBA
 
 #### 🗡️ Operators
@@ -78,10 +78,14 @@ First, we'll need a solid understanding of computer programmer toolbox. We'll ex
 - syntax 
 - returns
 - calls
-- params and calls
-- params, returns, calls
+- args and calls
+- args, returns, calls
 - recursion! (another way to loop!)
 - 🚗 mini assignment TBA 
+
+#### 🗳️ Structures / Containers ADVANCED
+- arrays and their methods part 2 
+- objects and their methods part 2 
 
 ### 🚚 BIG ASSIGNMENT (Putting it all together)
 - comprehensive assignment TBA
