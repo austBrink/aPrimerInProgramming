@@ -83,7 +83,7 @@ First, we'll need a solid understanding of computer programmer toolbox. We'll ex
 - recursion! (another way to loop!)
 - 🚗 mini assignment TBA 
 
-#### 🗳️ Structures / Containers ADVANCED
+#### 🗳️ Structures / Containers Part 2 
 - arrays and their methods part 2 
 - objects and their methods part 2 
 

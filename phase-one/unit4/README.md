@@ -29,7 +29,7 @@
 - recursion! (another way to loop!)
 - 🚗 mini assignment TBA 
 
-## 🗳️ Structures / Containers ADVANCED
+## 🗳️ Structures / Containers Part 2 
 - arrays and their methods part 2 
     - A review of what we looked at last time... In case we forgot.
     - `.splice()` 
