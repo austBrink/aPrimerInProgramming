@@ -1,6 +1,12 @@
-# A Word of Welcome! 👋
+# A Word of Welcome! SYLLABUS👋
+
 ### A primer (What is javascript?) 🕹️ 
 Javascript is a computer language that allows developers to write scripts that can be executed in your web browser (That's called front end), or programs ran on a computer / server (that's called backend). 
+
+# 👨‍🎓 👩‍🎓 Who is this class for? 
+I'm gearing this class for high-schoolers (and advanced 7th-8th graders) that need / desire a technical elective. I'm assuming my students are yet unfamiliar with computer programming and computer programming languages. While assignments will only have a loose grading system completing assignments will be in the students best interest for comprehension! Coding is not a spectator sport! The more you do the more you'll know! 
+This Class will make a great highschool level Computer Science (and prep for college computer science courses). This class could also function as a technical elective to help students decide if further education and a career in computer science is right for them. 
+
 
 # 🤓 Who's the teacher? 
 - Hi! I'm Austin. I am a fullstack web developer and part time math and computer science tutor. In my down time I love hanging out with my wife Hannah, journaling, petting our little cat Lu, and playing acoustic guitar. 
@@ -12,6 +18,7 @@ First, we'll need a solid understanding of computer programmer toolbox. We'll ex
 ##  🧰 PHASE ONE (The Toolbox) 
 
 ### 👋 UNIT ONE "Hello, World!":  
+- An overview of the course and how we'll do things...
 - Talk basics of programming, the web, and what we'll be doing in the course. 
 - We'll get our feet wet with two very basic tools we'll see a whole lot of - console.log() and alert(). 
 - We'll also look at "_where_" we'll do our coding in the computer with _just enough_ html to get us moving with js. 
