@@ -41,5 +41,7 @@
 
 - objects and their methods part 2 
 - 🚗 mini assignment 
+
+## Comprehensive Assignments
     - Write a function to remove an item from an array. It will need to take an argument as to what we want to remove. It will then make sure that arg is actually in the array. It will then call .splice() to remove the item `.splice(array.indexOf(),1)` and return the new spliced array to the caller. O.o  
     - choose one of the new methods we learned about to replace one of the loops we made in the first array lesson. 
