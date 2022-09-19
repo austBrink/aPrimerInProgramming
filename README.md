@@ -86,6 +86,7 @@ First, we'll need a solid understanding of computer programmer toolbox. We'll ex
 - args and calls
 - args, returns, calls
 - recursion! (another way to loop!)
+- setTimeout (a way to wait)
 - 🚗 mini assignment TBA 
 
 #### 🗳️ Structures / Containers Part 2 

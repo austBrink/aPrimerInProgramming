@@ -15,6 +15,9 @@
     - `.push()` 
     - `.length`
     - `.at()`
+    - `.join()`
+    - `.sort()`
+    - `.reverse()`
 
 - objects and their methods part 1 
 - 🚗 mini assignment TBA
