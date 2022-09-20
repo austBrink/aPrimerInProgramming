@@ -15,8 +15,8 @@
     - `.push()` 
     - `.length`
     - `.at()`
+    - `.join()`
     - `.sort()`
     - `.reverse()`
-- objects
-
+- objects 
 - 🚗 mini assignment TBA
