@@ -43,7 +43,7 @@ First, we'll need a solid understanding of computer programmer toolbox. We'll ex
 
 #### 🗳️ Structures / Containers 
 - arrays and their methods part 1 
-- objects and their methods part 1 
+- objects
 - 🚗 mini assignment TBA
 
 #### 🗡️ Operators
@@ -90,7 +90,6 @@ First, we'll need a solid understanding of computer programmer toolbox. We'll ex
 
 #### 🗳️ Structures / Containers Part 2 
 - arrays and their methods part 2 
-- objects and their methods part 2 
 
 ### 🚚 BIG ASSIGNMENT (Putting it all together)
 - comprehensive assignment TBA
