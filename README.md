@@ -7,10 +7,9 @@ Javascript is a computer language that allows developers to write scripts that c
   <img src="giphy.gif" alt="animated" width="175px"/>
 </p> -->
 
-
 # 👨‍🎓 👩‍🎓 Who is this class for? 
 I'm gearing this class for high-schoolers (and advanced 7th-8th graders) that need / desire a technical elective. I'm assuming my students are yet unfamiliar with computer programming and computer programming languages. While assignments will only have a loose grading system completing assignments will be in the students best interest for comprehension! Coding is not a spectator sport! The more you do the more you'll know! 
-This Class will make a great highschool level Computer Science (and prep for college computer science courses). This class could also function as a technical elective to help students decide if further education and a career in computer science is right for them. 
+This class will make a great highschool level computer science course (and prep for college computer science courses). This class could also function as a technical elective to help students decide if further education and a career in computer science is right for them. 
 
 
 # 🤓 Who's the teacher? 
@@ -18,7 +17,7 @@ This Class will make a great highschool level Computer Science (and prep for col
 
 # 👀 What We'll Cover 
 For this course I want to make sure that you have a solid introduction to core concepts of computer programming. We'll talk about problem solving and creating good user / developer experiences both in terms of thinking programmatically and writing clean code to solve problems. 
-First, we'll need a solid understanding of computer programmer toolbox. We'll explore how to use the tools that almost every computer programming language has (in one form or another). After that we'll talk about the things that are harder to describe and memorize but maybe the most important; principals of problem solving. As we mentioned already, we're going to use javascript to do that in the context of "front end" web development. (PS curiosity is a great thing! If your curious, here's a great link to [checkout javascript]()). Stay tuned for these! 
+First, we'll need a solid understanding of computer programmer toolbox. We'll explore how to use the tools that almost every computer programming language has (in one form or another). After that, we'll talk about the things that are harder to describe and memorize but maybe the most important; principals of problem solving. We'll do that the best way, by solving a problem with a piece of software! As we mentioned already, we're going to use javascript to do that in the context of "front end" web development. (PS curiosity is a great thing! If your curious, here's a great link to [checkout javascript](https://www.tutorialspoint.com/javascript/index.htm)). Stay tuned for these! 
 
 ##  🧰 PHASE ONE (The Toolbox) 
 
