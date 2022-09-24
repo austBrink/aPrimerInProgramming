@@ -19,6 +19,7 @@ myArray = [6,5,4,3,2,1];
 // I wish to print this array. 
 console.log(myArray);
 line();
+
 // but if I wish to be fancy as I do in other languages....
 for (i = 0; i < myArray.length; i++) {
     console.log(myArray[i]);
