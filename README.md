@@ -40,16 +40,16 @@ First, we'll need a solid understanding of computer programmer toolbox. We'll ex
 - NaN
 - 🚗 mini assignment TBA
 
+#### 🗡️ Operators
+- math operations 
+- boolean operations
+- 🚗 mini assignment TBA
+
 #### 🗳️ Structures / Containers 
 - arrays and their methods part 1 
 - objects
 - 🚗 mini assignment TBA
 
-#### 🗡️ Operators
-- math operations 
-- boolean operations
-- ternary 
-- 🚗 mini assignment TBA
 
 ### UNIT THREE (I/O and conditionals: I want the computer to hear me, I want it to make decisions for me)
 #### 🖱️ Input / Output 
@@ -91,7 +91,7 @@ First, we'll need a solid understanding of computer programmer toolbox. We'll ex
 #### 🗳️ Structures / Containers Part 2 
 - arrays and their methods part 2 
 
-### 🚚 BIG ASSIGNMENT (Putting it all together)
+#### ✏️ One more assignmnet! 
 - comprehensive assignment TBA
 ## 🏗️ PHASE TWO (Building / Applications!) 
 ### 🔨 UNIT SIX (New Tools)
