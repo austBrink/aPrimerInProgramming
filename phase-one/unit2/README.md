@@ -8,7 +8,27 @@
 - string
 - bool 
 - NaN
-- 🚗 mini assignment TBA
+#### 🦾 Assignment! 
+- Create a variable named `myString` and set it equal to `"A string"` 
+- make a variable called `myInt` and set make it store the number `10`
+- Set the variable `myDouble` equal to `3.14159`
+
+#### 🗡️ Operators
+- math operations 
+- boolean operations
+
+#### ⏲️ ASSIGNMENT! 
+- step 1) create variables called `x` and `y`, setting them equal to 1 and 2 respectively. 
+- step 2) create variables called `sum` , `difference` , `product` to store the respective operations on x and y. 
+- step 3) log each of the three results to the screen. 
+Example:
+
+```
+let x = 1;
+let y = 2;
+let sum = x + y;
+console.log(sum);
+```
 
 #### 🗳️ Structures / Containers 
 - arrays and their methods part 1 
@@ -20,3 +40,4 @@
     - `.reverse()`
 - objects 
 - 🚗 mini assignment TBA
+
