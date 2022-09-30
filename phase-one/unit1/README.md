@@ -1,7 +1,7 @@
 # 👋 UNIT ONE "Hello, World!":  
 - **An overview of the course and how we'll do things...**
     - 🏛️ Classes: 1 hour sessions twice a week. 
-    - :notebook: In each session, we'll do lecture with small demo builds with everything open to questions along the way.
+    - 📓 In each session, we'll do lecture with small demo builds with everything open to questions along the way.
     - ➕ The most important part of the class! Assignments! 😄
 
 - **Talk basics of programming and the web**
